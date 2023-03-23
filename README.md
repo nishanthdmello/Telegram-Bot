@@ -4,14 +4,14 @@ This program when running allows your telegram bot to repeat the messages sent t
 
 ## Steps to begin : 
 
--> Search for bot-father on telegram
+i) Search for bot-father on telegram
 <br>
-->Type "/start"
+ii)Type "/start"
 <br>
-->Type "/newbot"
+iii) Type "/newbot"
 <br>
-->Follow on-screen instructions
+iv) Follow on-screen instructions
 <br>
-->Copy the token from telegram to the program where it says "secret_token" (Token not to be shared with anyone)
+v) Copy the token from telegram to the program where it says "secret_token" (Token not to be shared with anyone)
 <br>
-->Run the program and start messaging your created bot
+vi) Run the program and start messaging your created bot
